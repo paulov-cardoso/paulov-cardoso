@@ -37,11 +37,10 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulov-cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov-cardoso&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <a href="https://github.com/paulov-cardoso">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulov-cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov-cardoso&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  </a>
 </div>
 
 ---
