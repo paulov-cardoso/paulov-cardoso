@@ -38,9 +38,18 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulov-cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!-- Streak Stats — mostra total de commits reais, streak atual e maior streak -->
+<img height="180em" src="https://streak-stats.demolab.com?user=paulov-cardoso&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulov-cardoso&layout=compact&langs_count=8&theme=tokyonight"/>
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov-cardoso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<!-- Gráfico de atividade — igual ao contribution graph do GitHub -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulov-cardoso&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -66,7 +75,6 @@ Em breve adicionarei aqui meus principais projetos fullstack, automações de te
 <a href="https://www.linkedin.com/in/paulo-vitor-0197/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <a href="mailto:paulovcardoso.developer@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -77,6 +85,6 @@ Em breve adicionarei aqui meus principais projetos fullstack, automações de te
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil!
 
 </div>
