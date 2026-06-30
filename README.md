@@ -6,9 +6,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Desenvolvendo projetos fullstack com **React, Node.js, TypeScript, Django, Python, JavaScript e TailwindCSS**
-- 🧪 Estudando automação de testes com **Python, Pytest e Playwright**
-- 🌱 Aprofundando conhecimentos em **Clean Code, SOLID e CI/CD**
+- 🔭 Desenvolvendo projetos fullstack com **React, Node.js, TypeScript, Django, Python, JavaScript**
+- 🧪 Estudando automação de testes com **Jest, Python, Pytest e Playwright**
+- 🌱 Aprofundando conhecimentos em **Clean Code, SOLID, Segurança e CI/CD**
 - 📍 Manaus, AM — Brasil
 - 💼 Aberto a oportunidades como **Fullstack Developer Jr** ou **QA Analyst**
 
@@ -24,7 +24,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -41,8 +40,8 @@
 <!-- Streak Stats — mostra total de commits reais, streak atual e maior streak -->
 <img height="180em" src="https://streak-stats.demolab.com?user=paulov-cardoso&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
 
-<!-- Linguagens mais usadas -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov-cardoso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<!-- Linguagens mais usadas (count_private inclui repositórios privados na contagem) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov-cardoso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
 
@@ -57,13 +56,17 @@
 
 ## 📌 Projetos em destaque
 
-### 🚀 Em construção
+### 🗒️ [Mynotes](https://github.com/paulov-cardoso/mynotes)
 
-Em breve adicionarei aqui meus principais projetos fullstack, automações de testes e aplicações com foco em boas práticas, performance e escalabilidade.
+Aplicação fullstack de notas privadas em formato de post-its sobre canvas infinito, com sistema de blocos, autenticação JWT e responsividade completa (touch e pinch-to-zoom no mobile).
 
-### 📚 Atualmente trabalhando em
+`React 19` · `TypeScript` · `Node.js` · `Express` · `Prisma` · `PostgreSQL`
 
-- Synapsoos
+Projeto em desenvolvimento ativo, atualmente na fase de hardening de segurança, conformidade LGPD e construção de suíte de testes automatizados (Jest) — aplicando prática profissional de QA diretamente no próprio portfólio.
+
+### 📚 Também trabalhando em
+
+- Synapsoo
 - Portfólio pessoal
 
 ---
