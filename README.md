@@ -36,20 +36,7 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-
-<!-- Streak Stats — mostra total de commits reais, streak atual e maior streak -->
-<img height="180em" src="https://streak-stats.demolab.com?user=paulov-cardoso&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
-
-<!-- Linguagens mais usadas (count_private inclui repositórios privados na contagem) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov-cardoso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</div>
-
-<!-- Gráfico de atividade — igual ao contribution graph do GitHub -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulov-cardoso&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
